@@ -1,1 +1,4 @@
-asdfghjkkjhgfdsasdfghjk
+int mian ()
+{
+ printf("ASDFGHJ");
+}
